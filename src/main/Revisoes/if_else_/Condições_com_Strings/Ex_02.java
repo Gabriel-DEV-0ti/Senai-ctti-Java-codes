@@ -1,5 +1,6 @@
 package if_else_.Condições_com_Strings;
-
+//Determine se uma senha digitada está correta (exemplo: senha
+//esperada é &quot;1234;).
 import java.util.Scanner;
 
 public class Ex_02 {
