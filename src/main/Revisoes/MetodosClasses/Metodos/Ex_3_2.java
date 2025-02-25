@@ -1,4 +1,4 @@
-package MetodosClasses;
+package MetodosClasses.Metodos;
 //Determine se uma senha digitada está correta (exemplo: senha esperada é &quot;1234;).
 import java.util.Scanner;
 
