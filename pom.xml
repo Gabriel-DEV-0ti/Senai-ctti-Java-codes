@@ -15,7 +15,11 @@
     </properties>
 
     <dependencies>
+<<<<<<< HEAD
         <!-- https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter-api -->
+=======
+        <!--  https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter-api  -->
+>>>>>>> 7780d55bff385ead15a7c3d94e46feebdcc374ab
         <dependency>
             <groupId>org.junit.jupiter</groupId>
             <artifactId>junit-jupiter-api</artifactId>
