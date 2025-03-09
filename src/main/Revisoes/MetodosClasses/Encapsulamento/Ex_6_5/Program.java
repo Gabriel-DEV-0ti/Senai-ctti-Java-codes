@@ -1,4 +1,6 @@
-package MetodosClasses.Ex_6_5;
+package MetodosClasses.Encapsulamento.Ex_6_5;
+
+import MetodosClasses.Encapsulamento.Ex_6_5.Cliente;
 
 public class Program {
     public static void main(String[] args) {
