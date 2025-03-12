@@ -5,7 +5,6 @@ import MetodosClasses.Classes.Ex_2_1.Aluno;
 
 import java.util.Scanner;
 
-/*Receba duas notas e informe se o aluno foi aprovado (média >= 7).*/
 public class Program {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
