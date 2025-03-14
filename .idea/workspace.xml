@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5e8ffe9d-46f5-4d47-b970-b659dca45dac" name="Changes" comment="">
+    <list default="true" id="95cf0730-32c6-44d5-b44a-052438d18d2f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/Revisoes/Construtores/Ex_1/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Revisoes/Construtores/Ex_1/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Revisoes/Construtores/Ex_2/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Revisoes/Construtores/Ex_2/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Revisoes/Construtores/Ex_3/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Revisoes/Construtores/Ex_4/Program.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/Revisoes/Ex_fixação/Estoque/Products.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/Revisoes/Ex_fixação/Estoque/Program.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/Revisoes/Ex_fixação/ObjClas/Program.java" afterDir="false" />
@@ -14,6 +20,9 @@
       <change afterPath="$PROJECT_DIR$/src/main/Revisoes/Ex_fixação/ObjClasAp/Triangle.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/Revisoes/Ex_fixação/Objeto.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/Revisoes/For_DoWhile/For/Ex_06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Revisoes/GetAndSet/Ex_1/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Revisoes/GetAndSet/Ex_2/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Revisoes/GetAndSet/Ex_3/Program.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/Revisoes/Lista_Matriz_ForEach/Ex_1/List.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/Revisoes/Lista_Matriz_ForEach/Ex_1/Program.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/Revisoes/Lista_Matriz_ForEach/Ex_2/List.java" afterDir="false" />
@@ -22,6 +31,7 @@
       <change afterPath="$PROJECT_DIR$/src/main/Revisoes/Lista_Matriz_ForEach/Ex_3/Program.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/Revisoes/MetodosClasses/Triangulo/Program.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/Revisoes/MetodosClasses/Triangulo/Triangulo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_abs/Ex_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_abs/Ex_01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_abs/Ex_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_abs/Ex_02.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_abs/Ex_03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_abs/Ex_03.java" afterDir="false" />
@@ -122,35 +132,34 @@
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 4
 }</component>
-  <component name="ProjectId" id="2tb2EoXe9ynD0nKGjPtMuvdwJis" />
+  <component name="ProjectId" id="2uEcqaRsfeNC0HBj1CGtqpc6Y9u" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Atv01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Program.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Construtores.Ex_1.Program.executor": "Run",
+    "Application.Program.executor": "Run",
+    "Application.main.Revisoes.Construtores.Ex_2.Program.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
-      <recent name="main.Revisoes.Ex_fixação.Estoque" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Aluno_Noite\IdeaProjects\JavaNoite\src\main\Revisoes\Ternaria" />
+      <recent name="Construtores.Ex_2" />
+      <recent name="Construtores.Ex_1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Program">
-    <configuration name="Atv01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.Revisoes.Ternaria.Atv01" />
+  <component name="RunManager" selected="Application.main.Revisoes.Construtores.Ex_2.Program">
+    <configuration name="Construtores.Ex_1.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Construtores.Ex_1.Program" />
       <module name="JavaNoite" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.Revisoes.Ternaria.*" />
+          <option name="PATTERN" value="Construtores.Ex_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -159,28 +168,47 @@
       </method>
     </configuration>
     <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="UNNAMED_CLASS_CONFIGURATION" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Program" />
+      <option name="MAIN_CLASS_NAME" value="main.Revisoes.Construtores.Ex_1.Program" />
       <module name="JavaNoite" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.Revisoes.Construtores.Ex_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main.Revisoes.Construtores.Ex_2.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.Revisoes.Construtores.Ex_2.Program" />
+      <module name="JavaNoite" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.Revisoes.Construtores.Ex_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.main.Revisoes.Construtores.Ex_2.Program" />
+        <item itemvalue="Application.Construtores.Ex_1.Program" />
         <item itemvalue="Application.Program" />
-        <item itemvalue="Application.Atv01" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="5e8ffe9d-46f5-4d47-b970-b659dca45dac" name="Changes" comment="" />
-      <created>1740606344230</created>
+      <changelist id="95cf0730-32c6-44d5-b44a-052438d18d2f" name="Changes" comment="" />
+      <created>1741817366822</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1740606344230</updated>
+      <updated>1741817366822</updated>
     </task>
     <servers />
   </component>
