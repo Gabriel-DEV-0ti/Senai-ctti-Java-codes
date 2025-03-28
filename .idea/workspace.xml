@@ -4,145 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-<<<<<<< HEAD
-    <list default="true" id="95cf0730-32c6-44d5-b44a-052438d18d2f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/Revisoes/Construtores/Ex_1/Carro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Revisoes/Construtores/Ex_1/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Revisoes/Construtores/Ex_2/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Revisoes/Construtores/Ex_2/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Revisoes/Construtores/Ex_3/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Revisoes/Construtores/Ex_4/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Revisoes/Ex_fixação/Estoque/Products.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Revisoes/Ex_fixação/Estoque/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Revisoes/Ex_fixação/ObjClas/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Revisoes/Ex_fixação/ObjClas/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Revisoes/Ex_fixação/ObjClas/semObjeto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Revisoes/Ex_fixação/ObjClasAp/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Revisoes/Ex_fixação/ObjClasAp/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Revisoes/Ex_fixação/Objeto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Revisoes/For_DoWhile/For/Ex_06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Revisoes/GetAndSet/Ex_1/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Revisoes/GetAndSet/Ex_2/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Revisoes/GetAndSet/Ex_3/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Revisoes/Lista_Matriz_ForEach/Ex_1/List.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Revisoes/Lista_Matriz_ForEach/Ex_1/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Revisoes/Lista_Matriz_ForEach/Ex_2/List.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Revisoes/Lista_Matriz_ForEach/Ex_2/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Revisoes/Lista_Matriz_ForEach/Ex_3/List.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Revisoes/Lista_Matriz_ForEach/Ex_3/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Revisoes/MetodosClasses/Triangulo/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Revisoes/MetodosClasses/Triangulo/Triangulo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_abs/Ex_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_abs/Ex_01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_abs/Ex_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_abs/Ex_02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_abs/Ex_03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_abs/Ex_03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_abs/Ex_04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_abs/Ex_04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_abs/Ex_05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_abs/Ex_05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_abs/Ex_06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_abs/Ex_06.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_abs/Ex_07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_abs/Ex_07.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_abs/Ex_08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_abs/Ex_08.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_abs/Ex_09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_abs/Ex_09.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_abs/Ex_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_abs/Ex_10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_abs/Ex_11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_abs/Ex_11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_abs/Ex_12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_abs/Ex_12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_abs/Ex_13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_abs/Ex_13.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_abs/Ex_14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_abs/Ex_14.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_abs/Ex_15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_abs/Ex_15.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_abs/Ex_16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_abs/Ex_16.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_abs/Ex_17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_abs/Ex_17.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_abs/Ex_18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_abs/Ex_18.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_abs/Ex_19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_abs/Ex_19.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_abs/Ex_20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_abs/Ex_20.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_pow/Ex_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_pow/Ex_01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_pow/Ex_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_pow/Ex_02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_pow/Ex_03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_pow/Ex_03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_pow/Ex_04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_pow/Ex_04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_pow/Ex_05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_pow/Ex_05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_pow/Ex_06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_pow/Ex_06.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_pow/Ex_07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_pow/Ex_07.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_pow/Ex_08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_pow/Ex_08.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_pow/Ex_09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_pow/Ex_09.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_pow/Ex_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_pow/Ex_10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_pow/Ex_11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_pow/Ex_11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_pow/Ex_12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_pow/Ex_12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_pow/Ex_13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_pow/Ex_13.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_pow/Ex_14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_pow/Ex_14.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_pow/Ex_15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_pow/Ex_15.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_pow/Ex_16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_pow/Ex_16.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_pow/Ex_17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_pow/Ex_17.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_pow/Ex_18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_pow/Ex_18.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_pow/Ex_19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_pow/Ex_19.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_pow/Ex_20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_pow/Ex_20.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_sqrt/Ex_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_sqrt/Ex_01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_sqrt/Ex_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_sqrt/Ex_02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_sqrt/Ex_03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_sqrt/Ex_03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_sqrt/Ex_04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_sqrt/Ex_04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_sqrt/Ex_05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_sqrt/Ex_05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_sqrt/Ex_06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_sqrt/Ex_06.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_sqrt/Ex_07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_sqrt/Ex_07.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_sqrt/Ex_08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_sqrt/Ex_08.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_sqrt/Ex_09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_sqrt/Ex_09.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_sqrt/Ex_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_sqrt/Ex_10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_sqrt/Ex_11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_sqrt/Ex_11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_sqrt/Ex_12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_sqrt/Ex_12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_sqrt/Ex_13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_sqrt/Ex_13.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_sqrt/Ex_14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_sqrt/Ex_14.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_sqrt/Ex_15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_sqrt/Ex_15.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_sqrt/Ex_16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_sqrt/Ex_16.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_sqrt/Ex_17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_sqrt/Ex_17.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_sqrt/Ex_18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_sqrt/Ex_18.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_sqrt/Ex_19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_sqrt/Ex_19.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_sqrt/Ex_20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/Math_sqrt/Ex_20.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/expressoes_aritmeticas/Ex_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/expressoes_aritmeticas/Ex_01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/expressoes_aritmeticas/Ex_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/expressoes_aritmeticas/Ex_02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/expressoes_aritmeticas/Ex_03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/expressoes_aritmeticas/Ex_03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/expressoes_aritmeticas/Ex_04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/expressoes_aritmeticas/Ex_04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/expressoes_aritmeticas/Ex_05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/expressoes_aritmeticas/Ex_05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/expressoes_aritmeticas/Ex_06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/expressoes_aritmeticas/Ex_06.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/expressoes_aritmeticas/Ex_07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/expressoes_aritmeticas/Ex_07.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/expressoes_aritmeticas/Ex_08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/expressoes_aritmeticas/Ex_08.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/expressoes_aritmeticas/Ex_09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/expressoes_aritmeticas/Ex_09.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/expressoes_aritmeticas/Ex_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/expressoes_aritmeticas/Ex_10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/expressoes_aritmeticas/Ex_11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/expressoes_aritmeticas/Ex_11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/expressoes_aritmeticas/Ex_12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/expressoes_aritmeticas/Ex_12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/expressoes_aritmeticas/Ex_13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/expressoes_aritmeticas/Ex_13.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/expressoes_aritmeticas/Ex_14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/expressoes_aritmeticas/Ex_14.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/expressoes_aritmeticas/Ex_15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/expressoes_aritmeticas/Ex_15.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/expressoes_aritmeticas/Ex_16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/expressoes_aritmeticas/Ex_16.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/expressoes_aritmeticas/Ex_17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/expressoes_aritmeticas/Ex_17.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/expressoes_aritmeticas/Ex_18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/expressoes_aritmeticas/Ex_18.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/expressoes_aritmeticas/Ex_19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/expressoes_aritmeticas/Ex_19.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/expressoes_aritmeticas/Ex_20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Revisoes/Math_Aritimeticas/expressoes_aritmeticas/Ex_20.java" afterDir="false" />
-=======
-    <list default="true" id="e4116e24-915b-40c2-b1a7-75417f7f9b7a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/Revisoes/Lista_Matriz_ForEach/Ex_10/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Revisoes/Lista_Matriz_ForEach/Ex_11/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Revisoes/Lista_Matriz_ForEach/Ex_12/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Revisoes/Lista_Matriz_ForEach/Ex_13/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Revisoes/Lista_Matriz_ForEach/Ex_14/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Revisoes/Lista_Matriz_ForEach/Ex_15/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Revisoes/Lista_Matriz_ForEach/Ex_16/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Revisoes/Lista_Matriz_ForEach/Ex_17/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Revisoes/Lista_Matriz_ForEach/Ex_18/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Revisoes/Lista_Matriz_ForEach/Ex_19/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Revisoes/Lista_Matriz_ForEach/Ex_20/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Revisoes/Lista_Matriz_ForEach/Ex_21/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Revisoes/Lista_Matriz_ForEach/Ex_22/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Revisoes/Lista_Matriz_ForEach/Ex_23/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Revisoes/Lista_Matriz_ForEach/Ex_24/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Revisoes/Lista_Matriz_ForEach/Ex_25/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Revisoes/Lista_Matriz_ForEach/Ex_26/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Revisoes/Lista_Matriz_ForEach/Ex_27/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Revisoes/Lista_Matriz_ForEach/Ex_28/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Revisoes/Lista_Matriz_ForEach/Ex_29/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Revisoes/Lista_Matriz_ForEach/Ex_30/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Revisoes/Lista_Matriz_ForEach/Ex_9/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+    <list default="true" id="dc142a68-0331-4a05-8870-def3820db3e2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/Revisoes/Construtores/Ex_3/ContaBancaria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Revisoes/Construtores/Ex_4/Produto.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Revisoes/Lista_Matriz_ForEach/Ex_4.java" beforeDir="false" />
->>>>>>> 5522b83 (Commit de atualizacao)
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Revisoes/Construtores/Ex_3/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Revisoes/Construtores/Ex_3/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Revisoes/Construtores/Ex_4/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Revisoes/Construtores/Ex_4/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Revisoes/GetAndSet/Ex_1/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Revisoes/GetAndSet/Ex_1/Program.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -157,89 +27,45 @@
     </option>
   </component>
   <component name="Git.Settings">
-<<<<<<< HEAD
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/main/Revisoes" />
-=======
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
->>>>>>> 5522b83 (Commit de atualizacao)
   </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 4
 }</component>
-<<<<<<< HEAD
-  <component name="ProjectId" id="2uEcqaRsfeNC0HBj1CGtqpc6Y9u" />
-=======
-  <component name="ProjectId" id="2u5gDEzelEqAmbVuHHoVrace3ry" />
->>>>>>> 5522b83 (Commit de atualizacao)
+  <component name="ProjectId" id="2uXT0nMco7MclI9FPOpWmIm3rWK" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-<<<<<<< HEAD
-    "Application.Construtores.Ex_1.Program.executor": "Run",
     "Application.Program.executor": "Run",
-    "Application.main.Revisoes.Construtores.Ex_2.Program.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
-  }
-}]]></component>
-  <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="Construtores.Ex_2" />
-      <recent name="Construtores.Ex_1" />
-    </key>
-  </component>
-  <component name="RunManager" selected="Application.main.Revisoes.Construtores.Ex_2.Program">
-    <configuration name="Construtores.Ex_1.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Construtores.Ex_1.Program" />
-      <module name="JavaNoite" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Construtores.Ex_1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.Revisoes.Construtores.Ex_1.Program" />
-      <module name="JavaNoite" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="main.Revisoes.Construtores.Ex_1.*" />
-=======
-    "Application.Program.executor": "Run",
-    "Application.main.Revisoes.Lista_Matriz_ForEach.Ex_10.Program.executor": "Run",
-    "Application.main.Revisoes.Lista_Matriz_ForEach.Ex_11.Program.executor": "Run",
-    "Application.main.Revisoes.Lista_Matriz_ForEach.Ex_14.Program.executor": "Run",
-    "Application.main.Revisoes.Lista_Matriz_ForEach.Ex_15.Program.executor": "Run",
+    "Application.main.Revisoes.Construtores.Ex_4.Program.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "E:/JavaNoite",
+    "last_opened_file_path": "E:/Java/SystemsDevelopment",
     "settings.editor.selected.configurable": "preferences.JavaFX"
   }
 }]]></component>
   <component name="RecentsManager">
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="main.Revisoes.Lista_Matriz_ForEach.Ex_9" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="GetAndSet.Ex_1" />
+      <recent name="GetAndSet.Ex_2" />
+      <recent name="GetAndSet.Ex_3" />
+      <recent name="Construtores.Ex_4" />
+      <recent name="Construtores.Ex_3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.main.Revisoes.Lista_Matriz_ForEach.Ex_15.Program">
+  <component name="RunManager" selected="Application.main.Revisoes.Construtores.Ex_4.Program">
     <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.Revisoes.Lista_Matriz_ForEach.Ex_9.Program" />
+      <option name="MAIN_CLASS_NAME" value="main.Revisoes.Construtores.Ex_3.Program" />
       <module name="JavaNoite" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.Revisoes.Lista_Matriz_ForEach.Ex_9.*" />
->>>>>>> 5522b83 (Commit de atualizacao)
+          <option name="PATTERN" value="main.Revisoes.Construtores.Ex_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -247,60 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-<<<<<<< HEAD
-    <configuration name="main.Revisoes.Construtores.Ex_2.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.Revisoes.Construtores.Ex_2.Program" />
+    <configuration name="main.Revisoes.Construtores.Ex_4.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.Revisoes.Construtores.Ex_4.Program" />
       <module name="JavaNoite" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.Revisoes.Construtores.Ex_2.*" />
-=======
-    <configuration name="main.Revisoes.Lista_Matriz_ForEach.Ex_10.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.Revisoes.Lista_Matriz_ForEach.Ex_10.Program" />
-      <module name="JavaNoite" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="main.Revisoes.Lista_Matriz_ForEach.Ex_10.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="main.Revisoes.Lista_Matriz_ForEach.Ex_11.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.Revisoes.Lista_Matriz_ForEach.Ex_11.Program" />
-      <module name="JavaNoite" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="main.Revisoes.Lista_Matriz_ForEach.Ex_11.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="main.Revisoes.Lista_Matriz_ForEach.Ex_14.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.Revisoes.Lista_Matriz_ForEach.Ex_14.Program" />
-      <module name="JavaNoite" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="main.Revisoes.Lista_Matriz_ForEach.Ex_14.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="main.Revisoes.Lista_Matriz_ForEach.Ex_15.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.Revisoes.Lista_Matriz_ForEach.Ex_15.Program" />
-      <module name="JavaNoite" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="main.Revisoes.Lista_Matriz_ForEach.Ex_15.*" />
->>>>>>> 5522b83 (Commit de atualizacao)
+          <option name="PATTERN" value="main.Revisoes.Construtores.Ex_4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -310,15 +88,7 @@
     </configuration>
     <recent_temporary>
       <list>
-<<<<<<< HEAD
-        <item itemvalue="Application.main.Revisoes.Construtores.Ex_2.Program" />
-        <item itemvalue="Application.Construtores.Ex_1.Program" />
-=======
-        <item itemvalue="Application.main.Revisoes.Lista_Matriz_ForEach.Ex_15.Program" />
-        <item itemvalue="Application.main.Revisoes.Lista_Matriz_ForEach.Ex_14.Program" />
-        <item itemvalue="Application.main.Revisoes.Lista_Matriz_ForEach.Ex_11.Program" />
-        <item itemvalue="Application.main.Revisoes.Lista_Matriz_ForEach.Ex_10.Program" />
->>>>>>> 5522b83 (Commit de atualizacao)
+        <item itemvalue="Application.main.Revisoes.Construtores.Ex_4.Program" />
         <item itemvalue="Application.Program" />
       </list>
     </recent_temporary>
@@ -326,19 +96,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-<<<<<<< HEAD
-      <changelist id="95cf0730-32c6-44d5-b44a-052438d18d2f" name="Changes" comment="" />
-      <created>1741817366822</created>
+      <changelist id="dc142a68-0331-4a05-8870-def3820db3e2" name="Changes" comment="" />
+      <created>1742393699735</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1741817366822</updated>
-=======
-      <changelist id="e4116e24-915b-40c2-b1a7-75417f7f9b7a" name="Changes" comment="" />
-      <created>1741543729761</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1741543729761</updated>
->>>>>>> 5522b83 (Commit de atualizacao)
+      <updated>1742393699735</updated>
     </task>
     <servers />
   </component>
